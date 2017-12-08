@@ -4,7 +4,7 @@
 
 Challenge: develop offline-first web applications using Service Workers and IndexedDB (PWAs).
 
-+ be an active member of the community: help others
+\+ be an active member of the community: help others
 
 
 ![alt text](https://github.com/MarieLynneBlock/GoogleDeveloperChallengeScholarship-MobileWeb/blob/master/Google-Dev-EMEA-Badge.png)
