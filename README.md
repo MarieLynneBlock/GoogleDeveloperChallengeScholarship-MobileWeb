@@ -2,7 +2,7 @@
 
 ###### a graduate of this program will be job-ready for Mobile Web Developer roles. In addition, he/she will be fully prepared to earn the Google Mobile Web Specialist Certification, offered directly by Google.
 
-Challenge: develop offline-first web applications using Service Workers and IndexedDB. 
+Challenge: develop offline-first web applications using Service Workers and IndexedDB (PWAs).
 
 + be an active member of the community: help others
 
