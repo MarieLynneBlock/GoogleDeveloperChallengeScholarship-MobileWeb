@@ -22,9 +22,9 @@ _Project:_
 
 
 ### 2. Advanced JavaScript
-- Functions
+- Functions   
 ES6 improvements: arrow functions, classes, "this", default function parametes, Defaults and Destructuring,...
-- Built-ins
+- Built-ins   
 Symbols, Sets, WeakSets, Maps, WeakMaps, Promises Proxies, Generators, Iteration & Iterable Protocols, etc.
-- Professional Developer-fu
+- Professional Developer-fu   
 using polyfills and transpiling ES6 JavaScript code to ES5
